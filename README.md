@@ -1,0 +1,2 @@
+# -Mcoc-Private-Server-Mod-Project
+Hello there! My name is Otriux and this project revolves around Marvel Contest of Champions. I want to create a private server for this game like MCOC MOD did and access all the data that the client packages transfer between the client and the server. The mod will allow access to any character and unlimited currency since the server is custom and the data can be edited. I have open sourced the project so feel free to make improvements to the code. Any questions? Please DM me on Twitter: @Otriux1
